@@ -15,51 +15,63 @@ I'm also gonna be trying to see if I can add back in some of the in-game tutoria
  
 ## MOD LIST (will be continually updating):
 
-# Tinkers' Construct - mDiyo
+### Tinkers' Construct - mDiyo
 
  
 
-Tinkers' Compliment - KnightMiner
+- Tinkers' Compliment - KnightMiner
 
-Tinkers' Tool Leveling - bonusboni
+- Tinkers' Tool Leveling - bonusboni
 
-Tinkers' JEI - Possible_triangle
-
- 
-
-Thermal Dynamics - TeamCoFH
+- Tinkers' JEI - Possible_triangle
 
  
 
-Thermal Foundation - TeamCoFH
-
-Thermal Expansion - TeamCoFH
-Thermal Innovation - TeamCoFH
-
-
-Thaumcraft - Azanor13
+### Thermal Dynamics - TeamCoFH
 
  
 
-Thaumic Inventory Scanning - BlayTheNinth
+- Thermal Foundation - TeamCoFH
+- Thermal Expansion - TeamCoFH
+- Thermal Innovation - TeamCoFH
 
-Thaumic Periphery - mangoose3039
 
- 
-
-Compatibility Mods:
-
- 
-
-Thaumic Tinkerer - nekosune
-
-Thermal Tinkering - Samboy063
+### Thaumcraft - Azanor13
 
  
 
-Base/Library Mods:
+- Thaumic Inventory Scanning - BlayTheNinth
+- Thaumic Periphery - mangoose3039
 
+ 
 
-Redstone Flux - TeamCoFH
+### Compatibility Mods:
+
+ 
+
+- Thaumic Tinkerer - nekosune
+- Thermal Tinkering - Samboy063
+
+# Other Tweaks:
+
+- AppleSkin - squeek502
+- Carry On - Tschipp
+- Clay WorldGen - EwyBoy
+- Client Tweaks - BlayTheNinth
+- Controlling - JaredIll08
+- CraftTweaker - JaredIll08
+- Guide-API - TehNut
+- Inventory Tweaks - Kotab
+- Just Enough Items - mezz
+- Mouse Tweaks - YaLTeR97
+
+### Base/Library Mods:
+
+- Baubles - Azanor13
+- CodeChicken Lib - covers1624
+- CoFH Core - TeamCoFH
+- CoFH World - TeamCoFH
+- Redstone Flux - TeamCoFH
+- Mantle - mDiyo, bonusboni, progwml6
 
  
