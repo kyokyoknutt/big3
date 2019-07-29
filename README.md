@@ -17,42 +17,27 @@ I'm also gonna be trying to see if I can add back in some of the in-game tutoria
 
 ### Tinkers' Construct - mDiyo
 
- 
-
 - Tinkers' Compliment - KnightMiner
-
 - Tinkers' Tool Leveling - bonusboni
-
 - Tinkers' JEI - Possible_triangle
 
- 
-
 ### Thermal Dynamics - TeamCoFH
-
- 
 
 - Thermal Foundation - TeamCoFH
 - Thermal Expansion - TeamCoFH
 - Thermal Innovation - TeamCoFH
 
-
 ### Thaumcraft - Azanor13
-
- 
 
 - Thaumic Inventory Scanning - BlayTheNinth
 - Thaumic Periphery - mangoose3039
 
- 
-
 ### Compatibility Mods:
-
- 
 
 - Thaumic Tinkerer - nekosune
 - Thermal Tinkering - Samboy063
 
-# Other Tweaks:
+### Other Tweaks:
 
 - AppleSkin - squeek502
 - Carry On - Tschipp
